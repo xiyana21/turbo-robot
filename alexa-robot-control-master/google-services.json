@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "914008980532",
+    "firebase_url": "https://robot-3e1e1.firebaseio.com",
+    "project_id": "robot-3e1e1",
+    "storage_bucket": "robot-3e1e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914008980532:android:555b42c5331676b2",
+        "android_client_info": {
+          "package_name": "com.github.lukaszbudnik.bluetoothrobotcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914008980532-262aio4c46ef1lgr6a8vri8jm57smv4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4F8zg1c__lqT0Hj9guvB0ll8suMBWtEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
